@@ -133,10 +133,16 @@ V1+V2+V3+…+Vn=0
 Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
 
 ## *ANEXOS*
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Mallas.jpeg)
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%206.png)
+Fig. #. Circuito en tinkercad
 
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Corrientes.png)
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%207.jpeg)
+Fig. #. Mediciones
 
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%208.jpeg)
+Fig. #. Mediciones
+
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%204.jpeg)
+Fig. #. Comprobación de Leyes
 
 
