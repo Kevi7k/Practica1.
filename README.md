@@ -82,6 +82,8 @@ Tabla III. Verificación de LCK
  
  Con la siguiente formula:
  
+ %Error= (Valor teorico - Valor medido)/(Valor teorico) * 100
+ 
  
 
 
