@@ -30,12 +30,16 @@ La Ley de Ohm establece que el voltaje entre los extremos de muchos tipos de mat
 
 Primera Ley de Kirchhoff: La suma algebraica de las corrientes que entran (o salen de) a una unión de dos o más elementos es igual a cero. Esto significa que la suma de las corrientes que entran a la unión es igual a la suma de las corrientes que salen de ella, como se aprecia en la figura 1.
 
-![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%201.png)
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%201.png) 
+
+
 Fig. 1. Primera Ley de Kirchhoff
 
 Segunda Ley de Kirchhoff: La suma algebraica de las diferencias de potencial alrededor de cualquier trayectoria cerrada en un circuito es cero. Esto significa que, en un circuito cerrado, la suma de las elevaciones de tensión es igual a la suma de las caídas de tensión. La figura 2 muestra dos resistencias en serie, en cada una hay una caída de potencial, la suma de esas dos caídas de potencial es igual al voltaje suministrado por la fuente. 
 
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%202.png)
+
+
 Fig. 2. Segunda Ley de Kirchhoff
 
 
