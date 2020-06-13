@@ -161,7 +161,7 @@ I(salida)=I(entrada)
 
 ## *CRONOGRAMA*
 
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Cronograma/Cronograma.jpeg)
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Cronograma/Cronograma_Informe1.jpg)
 
 ## *BIBLIOGRAFÍA*
 
