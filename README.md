@@ -173,18 +173,18 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 ## *ANEXOS*
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%206.png)
 
-Fig. #. Circuito en tinkercad
+Fig. 4. Circuito en TinkerCad
 
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%207.jpeg)
 
-Fig. #. Mediciones
+Fig. 5. Medición de corriente
 
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%208.jpeg)
 
-Fig. #. Mediciones
+Fig. 6. Medición de voltaje
 
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%204.jpeg)
 
-Fig. #. Comprobación de Leyes
+Fig. 7. Comprobación teórica de Leyes
 
 
