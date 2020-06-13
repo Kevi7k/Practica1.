@@ -117,6 +117,9 @@ Las unidades que se representan con la ley de Kirchoff son las mismas con las qu
 
 Las unidades respectivas sobre la ley de ohm son: 
 
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Ecuaciones.jpg)
+
+
 Su fórmula es I=V/R
 
 Intensidad=Amperio (A
