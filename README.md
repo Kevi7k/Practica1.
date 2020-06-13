@@ -7,7 +7,7 @@ Durante las últimas semanas hemos sido participes de conocer una nueva rama de 
 
 ## *OBJETIVO:*
 
--Demostrar experimentalmente la Leyes de Voltaje y de Corriente de Kirchhoff.
+-Demostrar experimentalmente la Leyes de Voltaje y de Corriente de Kirchhoff mediante el uso de simuladores para comprender de mejor manera los conomimiento previamente adquiridos.
 
 -Familiarizar al estudiante en el uso de instrumentos del laboratorio.
 
@@ -43,7 +43,7 @@ Segunda Ley de Kirchhoff: La suma algebraica de las diferencias de potencial alr
 Fig. 2. Segunda Ley de Kirchhoff
 
 
-## *PROCEDIMIENTO:*
+## *PROCEDIMIENTO*
 
 1.	Construir en el Protoboard el circuito de la figura 3.
 
@@ -52,6 +52,8 @@ Fig. 2. Segunda Ley de Kirchhoff
 Fig. 3. Circuito resistivo mixto
 
 2.	Medir y registrar en la tabla la caída de voltaje y corriente en cada uno de los elementos del circuito.
+
+## *TABULACIÓN DE DATOS*
 
 | Variable | Valor Calculado | Valor Medido |
 | ----- | ----- | ----- |
@@ -76,11 +78,11 @@ Tabla II. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 Tabla III. Verificación de LCK
 
-## *RESULTADOS OBTENIDOS*
+## *ANÁLISIS DE RESULTADOS*
  Ahora compararemos los resultados obtenidos tanto teoricamente como en la simulación a su vez calculando su error.
  
  
- Con la siguiente formula:
+ Con la siguiente fórmula:
  
  %Error= (Valor teorico - Valor medido)/(Valor teorico) * 100
  
@@ -99,10 +101,9 @@ Tabla III. Verificación de LCK
 | VR5(V) | 3,696 | 3,73|   0,92% |
 | IR5(mA) | 2,053 | 2,046| 0,34% |
 
- 
- 
+IV. Error obtenido en las mediciones
 
-
+ Como podemos ver, se manifiestan ciertos errores a la hora de hacer mediciones, que pueden ser por equivocación humana o por el error que puede cometer el instrumento. Como se puede observar ningún error llega al 1%, esto principalmente se ve reflejado en la comprobación de las leyes de Kirchhoff (véase en Tabla III). Donde se obtienen pequeñas diferencias; en cuanto a corriente en los dos nodos tenemos una diferencia con el valor calculado de 0.004mA y respecto a corriente tenemos una diferencia de 0.004 y 0.007 voltios. Aun así, la ley se cumple si tomamos como aceptables los errores cometidos.
 
 
 ## *DIAGRAMA*
@@ -137,6 +138,8 @@ También se cumple que las corrientes que entran a un nodo son igual a las que s
 
 
 I(salida)=I(entrada)
+
+
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
