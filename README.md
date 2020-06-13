@@ -63,8 +63,11 @@ Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Tabla%202.png)
 
+Tabla II. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Tabla%203.png)
 
+Tabla III. Verificación de LCK
 
 ## *RESULTADOS OBTENIDOS*
 
