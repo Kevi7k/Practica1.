@@ -61,14 +61,14 @@ Fig. 3. Circuito resistivo mixto
 
 Tabla  I. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-https://github.com/Kevi7k/Practica1./blob/master/Tablas/Tabla1.png
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Tablas/Tabla1.png)
 
-https://github.com/Kevi7k/Practica1./blob/master/Tablas/Tabla2.png
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Tablas/Tabla2.png)
 
 
 ## *RESULTADOS OBTENIDOS*
 
-
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Tablas/Tabla3.png)
 
 
 
