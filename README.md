@@ -87,11 +87,15 @@ Tabla III. Verificación de LCK
 
 
 ## *ECUACIONES*
-Las unidades respectivas sobre la ley de ohm son 
+Las unidades respectivas sobre la ley de ohm son: 
 
 
 Intensidad=Amperio (A)
+
+
 Voltaje=Voltio (V)
+
+
 Resistencia= Ohmio (omega)
 
 
@@ -99,13 +103,15 @@ Su fórmula es I=V/R
 
 
 De ahí partimos para que se cumpla la ley de Kirchhoff que es la sumatoria de voltajes dentro de una malla es igual a cero.
+
+
 V1+V2+V3+V4+……Vn=0
+
+
 También se cumple que las corrientes que entran a un nodo son igual a las que salen, teniendo.
 
 
-Isalida=Ientrada
-
-
+I(salida)=I(entrada)
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
