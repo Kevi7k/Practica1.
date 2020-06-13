@@ -3,7 +3,7 @@
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-
+Durante las últimas semanas hemos sido participes de conocer una nueva rama de la carrera de Ingeniería Mecatrónica, los circuitos eléctricos, se ha analizado y resuelto una variedad de circuitos eléctricos. Para la resolución de los mismos tenemos que recurrir a diferentes leyes, sin embargo, es necesario demostrarlas para su mejorar comprensión, en este caso es de sumo interés comprobar que las leyes de Voltaje y Corriente de Kirchhoff se cumplen dentro del análisis de nuestros circuitos.
 
 ## *OBJETIVO:*
 
