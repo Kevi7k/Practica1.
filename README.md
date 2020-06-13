@@ -77,7 +77,12 @@ Tabla II. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 Tabla III. Verificación de LCK
 
 ## *RESULTADOS OBTENIDOS*
-
+ Ahora compararemos los resultados obtenidos tanto teoricamente como en la simulación a su vez calculando su error.
+ 
+ 
+ Con la siguiente formula:
+ 
+ 
 
 
 
