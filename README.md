@@ -84,6 +84,22 @@ Tabla III. Verificación de LCK
  
  %Error= (Valor teorico - Valor medido)/(Valor teorico) * 100
  
+ Entonces calculamos los errores de cada elemento, obteniendo.
+ 
+ | Variable | Valor Calculado | Valor Medido | %Error |
+| ----- | ----- | ----- | -----|
+| VR1 (V) | 2,053 | 2,046 | 0,34% |
+| IR1(mA) | 2,053 | 2,056 | 0,15% |
+| VR2(V) | 4,251 | 4,223 |  0,66% |
+| IR2(mA) | 1,09 |1,088|   0,18%  |
+| VR3(V) | 2,1255 | 2,115 |  0,49% |
+| IR3 (mA) | 0,963 | 0,964 | 0,10% |
+| VR4(V) | 2,1255 | 2,115|  0,49% |
+| IR4(mA) |  0,963 | 0,964 | 0,10% |
+| VR5(V) | 3,696 | 3,73|   0,92% |
+| IR5(mA) | 2,053 | 2,046| 0,34% |
+
+ 
  
 
 
