@@ -113,28 +113,26 @@ IV. Error obtenido en las mediciones
 
 
 ## *ECUACIONES*
+Las unidades que se representan con la ley de Kirchoff son las mismas con las que se trabajan en la ley de Ohm. Para poder analizar las mismas, es necesario saber de dónde se obtienen:
+
 Las unidades respectivas sobre la ley de ohm son: 
 
+Su fórmula es I=V/R
 
-Intensidad=Amperio (A)
-
+Intensidad=Amperio (A
 
 Voltaje=Voltio (V)
-
 
 Resistencia= Ohmio (omega)
 
 
-Su fórmula es I=V/R
+Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley: 
 
 
-De ahí partimos para que se cumpla la ley de Kirchhoff que es la sumatoria de voltajes dentro de una malla es igual a cero.
+V1+V2+V3+V4+...Vn=0
 
 
-V1+V2+V3+V4+……Vn=0
-
-
-También se cumple que las corrientes que entran a un nodo son igual a las que salen, teniendo.
+Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes:
 
 
 I(salida)=I(entrada)
