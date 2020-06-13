@@ -106,7 +106,7 @@ Tabla III. Verificación de LCK
 
 
 ## *DIAGRAMA*
-
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
 
 
 ## *ECUACIONES*
