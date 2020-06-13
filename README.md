@@ -50,6 +50,7 @@ Fig. 2. Segunda Ley de Kirchhoff
 ![CircuitoPropuesto](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
 
 Fig. 3. Circuito resistivo mixto
+
 2.	Medir y registrar en la tabla la caída de voltaje y corriente en cada uno de los elementos del circuito.
 
 | Variable | Valor Calculado | Valor Medido |
