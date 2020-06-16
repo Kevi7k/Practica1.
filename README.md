@@ -115,6 +115,12 @@ I(salida)=I(entrada)
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+
+Nuestro circuito está conformado por 6 elementos, que serán 5 resistencias y nuestra fuente de voltaje, colocadas como se lo puede ver en nuestro circuito. 
+
+La fuente de voltaje proporcionará energía al circuito, llegando a nuestra primera resistencia que será nuestra resistencia de 1000 ohmios. De dicha resistencia nuestra corriente que fluye por dicha resistencia, se dividirá en dos nuevas resistencias. Nuestra primera resistencia es la de 3900 ohmios, que saldrá por nuestro nodo que se conectará a nuestra última resistencia. Nuestra segunda resistencia, obtenida de nuestra resistencia de 1000 ohmios, es la de 2200 ohmios, que estará conectada en serie con otra resistencia de 2200 ohmios y saldrá a nuestra última -resistencia. Dicha resistencia es una resistencia de 1800 ohmios, que será la que cierre nuestro circuito al conectarse con nuestro polo negativo de la batería, permitiendo así, que exista un flujo de corriente.
+
+
 ## *ANÁLISIS DE RESULTADOS*
  Ahora compararemos los resultados obtenidos tanto teoricamente como en la simulación a su vez calculando su error.
  
