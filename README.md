@@ -78,13 +78,6 @@ Tabla II. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 Tabla III. Verificación de LCK
 
-
-## *DIAGRAMA*
-![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
-
-![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%206.png)
-
-
 ## *ECUACIONES*
 Las unidades que se representan con la ley de Kirchoff son las mismas con las que se trabajan en la ley de Ohm. Para poder analizar las mismas, es necesario saber de dónde se obtienen:
 
@@ -112,6 +105,13 @@ Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir l
 
 
 I(salida)=I(entrada)
+
+
+## *DIAGRAMA*
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
+
+![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%206.png)
+
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
