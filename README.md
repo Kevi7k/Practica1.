@@ -78,33 +78,6 @@ Tabla II. Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 Tabla III. Verificación de LCK
 
-## *ANÁLISIS DE RESULTADOS*
- Ahora compararemos los resultados obtenidos tanto teoricamente como en la simulación a su vez calculando su error.
- 
- 
- Con la siguiente fórmula:
- 
- %Error= (Valor teorico - Valor medido)/(Valor teorico) * 100
- 
- Entonces calculamos los errores de cada elemento, obteniendo.
- 
- | Variable | Valor Calculado | Valor Medido | %Error |
-| ----- | ----- | ----- | -----|
-| VR1 (V) | 2,053 | 2,046 | 0,34% |
-| IR1(mA) | 2,053 | 2,056 | 0,15% |
-| VR2(V) | 4,251 | 4,223 |  0,66% |
-| IR2(mA) | 1,09 |1,088|   0,18%  |
-| VR3(V) | 2,1255 | 2,115 |  0,49% |
-| IR3 (mA) | 0,963 | 0,964 | 0,10% |
-| VR4(V) | 2,1255 | 2,115|  0,49% |
-| IR4(mA) |  0,963 | 0,964 | 0,10% |
-| VR5(V) | 3,696 | 3,73|   0,92% |
-| IR5(mA) | 2,053 | 2,046| 0,34% |
-
-IV. Error obtenido en las mediciones
-
- Como podemos ver, se manifiestan ciertos errores a la hora de hacer mediciones, que pueden ser por equivocación humana o por el error que puede cometer el instrumento. Como se puede observar ningún error llega al 1%, esto principalmente se ve reflejado en la comprobación de las leyes de Kirchhoff (véase en Tabla III). Donde se obtienen pequeñas diferencias; en cuanto a corriente en los dos nodos tenemos una diferencia con el valor calculado de 0.004mA y respecto a corriente tenemos una diferencia de 0.004 y 0.007 voltios. Aun así, la ley se cumple si tomamos como aceptables los errores cometidos.
-
 
 ## *DIAGRAMA*
 ![alt text](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
@@ -140,10 +113,34 @@ Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir l
 
 I(salida)=I(entrada)
 
-
-
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+## *ANÁLISIS DE RESULTADOS*
+ Ahora compararemos los resultados obtenidos tanto teoricamente como en la simulación a su vez calculando su error.
+ 
+ 
+ Con la siguiente fórmula:
+ 
+ %Error= (Valor teorico - Valor medido)/(Valor teorico) * 100
+ 
+ Entonces calculamos los errores de cada elemento, obteniendo.
+ 
+ | Variable | Valor Calculado | Valor Medido | %Error |
+| ----- | ----- | ----- | -----|
+| VR1 (V) | 2,053 | 2,046 | 0,34% |
+| IR1(mA) | 2,053 | 2,056 | 0,15% |
+| VR2(V) | 4,251 | 4,223 |  0,66% |
+| IR2(mA) | 1,09 |1,088|   0,18%  |
+| VR3(V) | 2,1255 | 2,115 |  0,49% |
+| IR3 (mA) | 0,963 | 0,964 | 0,10% |
+| VR4(V) | 2,1255 | 2,115|  0,49% |
+| IR4(mA) |  0,963 | 0,964 | 0,10% |
+| VR5(V) | 3,696 | 3,73|   0,92% |
+| IR5(mA) | 2,053 | 2,046| 0,34% |
+
+IV. Error obtenido en las mediciones
+
+ Como podemos ver, se manifiestan ciertos errores a la hora de hacer mediciones, que pueden ser por equivocación humana o por el error que puede cometer el instrumento. Como se puede observar ningún error llega al 1%, esto principalmente se ve reflejado en la comprobación de las leyes de Kirchhoff (véase en Tabla III). Donde se obtienen pequeñas diferencias; en cuanto a corriente en los dos nodos tenemos una diferencia con el valor calculado de 0.004mA y respecto a corriente tenemos una diferencia de 0.004 y 0.007 voltios. Aun así, la ley se cumple si tomamos como aceptables los errores cometidos.
 
 
 ## *CONCLUSIONES*
