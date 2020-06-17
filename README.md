@@ -1,4 +1,4 @@
-# Practica1.
+# Práctica 1
 
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
